@@ -1,4 +1,8 @@
-﻿using System;
+/* Jordan Ross
+* May 31, 2019
+* Euler Problem 9
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
